@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "922SS86H33.eda.UniversalLinks",
+        "paths": [
+          "*",
+          "*/*",
+          "*/*/*"
+        ]
+      }
+    ]
+  }
+}
