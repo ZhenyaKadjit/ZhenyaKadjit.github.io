@@ -5,7 +5,9 @@
       {
         "appID": "922SS86H33.ru.ykt.eda",
         "paths": [
-          "*"
+          "/#/homepage/*",
+          "/#/homepage/*/*",
+          "/#/homepage/*/*/"
         ]
       }
     ]
